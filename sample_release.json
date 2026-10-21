@@ -1,0 +1,11 @@
+{
+  "feature": "Citizen service form status update",
+  "owner": "Example product squad",
+  "staging_environment": "staging.forms.example",
+  "documentation": "Wiki page: status-update-release-notes",
+  "audit_note": "No personal data schema changes; approval trail retained.",
+  "code_reviewed": true,
+  "tests_passing": true,
+  "accessibility_checked": true,
+  "security_checked": true
+}
